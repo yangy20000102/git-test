@@ -15,5 +15,12 @@ public class Test {
         System.out.println("nihao a new file");
         System.out.println("master test");
         System.out.println("nihao a new sdafdsfdsfadf");
+        System.out.println("nihao a new sdafdsfdsfadf");
+        System.out.println("nihao a new sdafdsfdsfadf");
+        System.out.println("nihao a new sdafdsfdsfadf");
+        System.out.println("nihao a new sdafdsfdsfadf");
+        System.out.println("nihao a new sdafdsfdsfadf");
+        System.out.println("nihao a new sdafdsfdsfadf");
+        System.out.println("push test");
     }
 }
