@@ -12,8 +12,6 @@ import java.sql.SQLOutput;
 public class Add {
     public static void main(String[] args) {
         System.out.println("hello add");
-        System.out.println("hello three");
-        System.out.println("hello two");
         System.out.println("4");
     }
 }
