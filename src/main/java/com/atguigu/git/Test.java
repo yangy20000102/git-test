@@ -23,5 +23,6 @@ public class Test {
         System.out.println("nihao a new sdafdsfdsfadf");
         System.out.println("nihao a new sdafdsfdsfadf");
         System.out.println("push test");
+        System.out.println("new push test");
     }
 }
