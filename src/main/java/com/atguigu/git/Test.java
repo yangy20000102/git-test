@@ -28,5 +28,6 @@ public class Test {
          System.out.println(" pull test");
         System.out.println(" ssh test");
         System.out.println(" ssh test 222");
+		System.out.println(" ssh push 01010101010");
     }
 }
